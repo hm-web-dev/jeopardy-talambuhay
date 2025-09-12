@@ -36,16 +36,13 @@ npm run start
 
 ## Creating this project 
 
-For archival purposes:
+For archival purposes: 
 Everything you need to build a Svelte project, powered by [`sv`](https://github.com/sveltejs/cli).
-
-in production, you have to have a node version that will automatically execute typescript.
-
 
 ```bash
 # create a new project in the current directory
 npx sv create
+
 # create a new project in my-app
 npx sv create jeopardy-talambuhay
 ```
-
