@@ -199,6 +199,8 @@
 	.question {
 		font-size: 1.5rem;
 		margin-bottom: 1rem;
+		display: flex;
+		flex-direction: column;
 	}
 	.modal {
 		position: fixed;
@@ -226,7 +228,6 @@
 		max-width: 100%;
 		max-height: 70vh;
 		height: auto;
-		display: block;
 		object-fit: contain; /* Ensures the whole image is visible */
 	}
 
