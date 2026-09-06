@@ -200,7 +200,7 @@
 		font-size: 1.5rem;
 		margin-bottom: 1rem;
 		display: flex;
-		flex-direction: row;
+		flex-direction: column;
 	}
 	.modal {
 		position: fixed;
