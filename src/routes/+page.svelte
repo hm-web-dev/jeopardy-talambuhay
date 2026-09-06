@@ -154,7 +154,7 @@
 		--theme-color: #060ce9;
 		--point-color: goldenrod;
 		font-family: 'ITC_ Korinna', sans-serif;
-		background-color:palevioletred;
+		background-color:black;
 	}
 
 	:global(input) {
